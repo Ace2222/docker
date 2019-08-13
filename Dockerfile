@@ -1,4 +1,4 @@
-FROM centos:7777
+FROM centos
 MAINTAINER Ace
 RUN touch aaa.txt
 
